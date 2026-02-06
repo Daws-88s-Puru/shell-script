@@ -4,4 +4,4 @@ echo "please enter your username" #text entered here will be added as value to v
 
 read -s USERNAME #here username is variable name
 
-echno "username entered: $USERNAME"
+echo "username entered: $USERNAME"
